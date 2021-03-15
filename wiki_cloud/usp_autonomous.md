@@ -1,0 +1,3 @@
+# Autonomous deployment
+
+The management of the grid and the workload running on it is not in the hands by humans, hereby excluding both human error and malicious hackers. Bots take over this role: we have defined the concept of a [3Bot](threefold__3bot_def) as a human's Virtual System Administrator (VSA). How this exactly works can be read in the [security section](cloud__usp_secure.md), paragraph 'Deployment process'.

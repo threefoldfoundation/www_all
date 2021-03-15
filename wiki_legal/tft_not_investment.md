@@ -1,0 +1,2 @@
+> Important note: The ThreeFold Token (TFT) is not an investment instrument. <BR>
+> [TFT](threefold__threefold_token)s are used to buy and sell IT capacity on the [ThreeFold Grid](threefold__threefold_grid).
